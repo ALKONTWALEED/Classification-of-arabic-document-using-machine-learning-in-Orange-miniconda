@@ -4,7 +4,7 @@
 
 ## 📁 Project Structure
 
-- `workflow/untitled.ows` – Orange workflow file
+- `workflow/work file.ows` – Orange workflow file
 - `screenshots/` – Optional images of workflow / results
 - `README.md` – Project description
 - `LICENSE` – Project license (MIT)

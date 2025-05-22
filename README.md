@@ -29,6 +29,3 @@
 ## 🧾 License
 
 MIT License – see `LICENSE` file.
-
-## Author 
-** Waleed Manea Saleh **

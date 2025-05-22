@@ -21,7 +21,10 @@
 
 ## 📸 Preview
 
-![Workflow](screenshots/diagram.png)
+![Workflow](screenshots/Tree.JPG)
+
+## Author
+** Waleed Manea Saleh **
 
 ## 🧾 License
 
